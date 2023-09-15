@@ -9,7 +9,7 @@ I'm an 18-year-old aspiring software developer who loves to explore new technolo
 ### Skills 🛠️
 
 ##### **Here are some of the tools and technologies I work with:**
-![SkillIcons](https://skillicons.dev/icons?i=c,c++,java,python,html5,css3,javascript,)
+![SkillIcons](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,idea)
 
 ## Projects 🚀
 
@@ -29,6 +29,7 @@ I'm an 18-year-old aspiring software developer who loves to explore new technolo
 ## Contact Me 📱
 
 If you'd like to connect with me or discuss potential collaborations, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/enzo-mattio-51091226a/). I'm always open to new ideas and opportunities to learn and grow! 💬
+**You also can find my CV [here](https://enzo-mattio.students-laplateforme.io/). 📄**
 
 ## Github Stats ⚡
 
@@ -36,3 +37,6 @@ If you'd like to connect with me or discuss potential collaborations, feel free 
     <img src="https://github-readme-stats.vercel.app/api?username=enzo-mattio" style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-mattio" style="width: 48%;">
 </section>
+
+
+
