@@ -14,9 +14,8 @@ I'm an 18-year-old aspiring software developer who loves to explore new technolo
 ## Projects 🚀
 
 ##### **Here are some of my recent projects:**
-- Personal Website - A responsive website showcasing my portfolio and skills. 🌐
-- Java Game - A simple text-based game developed using Java. 🎮
-- Data Analysis Project - An analysis of a dataset using Python's data analysis libraries. 📈
+- [Calc-u-later](https://github.com/enzo-mattio/calc_u_later) - A calculator with JavaFX. 📚
+- [Global-Converter](https://github.com/enzo-mattio/global_converter) - A data type converter in the terminal with Java. 📊
 
 ## Interests 🌟
 
