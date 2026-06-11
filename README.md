@@ -1,41 +1,49 @@
-## Hi there, I'm Enzo! 👋
+# Hi, I'm Enzo Mattio 👋
 
-As a software developer, I have a deep passion for coding and working with technologies such as C, Java, Python, HTML, and CSS. 🚀 I enjoy building applications and websites that bring value to users. In this README, I'll share a bit about myself, my skills, projects, and interests. 🤓
+🚀 **Full-Stack Developer | Backend & DevOps | CDA Graduate**
 
-## About Me 👨‍💻
+21-year-old developer based in France with 3 years of professional experience (alternance + CDI) building web applications and managing production environments. I work on custom business applications, e-commerce solutions, and DevOps automation.
 
-I'm an 18-year-old aspiring software developer who loves to explore new technologies and improve my coding skills. I have a strong foundation in **C**, **Java**, **Python**, **HTML**, and **CSS**. I'm always eager to take on new challenges and expand my knowledge in the field of software development. Besides coding, I enjoy playing video games 🎮, reading tech blogs 📚, and exploring the latest advancements in the tech industry. ✨
+---
 
-### Skills 🛠️
+## 👨‍💻 About Me
 
-##### **Here are some of the tools and technologies I work with:**
-![SkillIcons](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,idea)
+- 🔭 Currently working as a **Full-Stack Developer & DevOps Engineer** at Revonum
+- 🎓 **CDA Graduate** – Concepteur Développeur d'Applications (RNCP37873, Level 6)
+- 🛠️ I build applications with **PHP/Symfony**, **C#**, **Angular**, and **Flutter**
+- 🐳 I manage production environments with **Docker**, **Bash**, and **PostgreSQL**
+- 🏎️ Passionate about cars, photography, and competitive gaming
+- 📍 Based in Eyguières, France
 
-## Projects 🚀
+---
 
-##### **Here are some of my recent projects:**
-- [Calc-u-later](https://github.com/enzo-mattio/calc_u_later) - A calculator with JavaFX. 📚
-- [Global-Converter](https://github.com/enzo-mattio/global_converter) - A data type converter in the terminal with Java. 📊
+## 🛠️ Stack
 
-## Interests 🌟
+### Backend
+![Symfony](https://skillicons.dev/icons?i=symfony,php)
 
-##### **Here are some of the things I'm interested in:**
-- Web Development 🌐
-- Mobile app Development 📱
-- Software Development 👨‍💻
-- Data Science 📊
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=angular,html,css,js,ts)
 
-## Contact Me 📱
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,java,cs)
 
-If you'd like to connect with me or discuss potential collaborations, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/enzo-mattio-51091226a/). I'm always open to new ideas and opportunities to learn and grow! 💬
-**You also can find my CV [here](https://enzo-mattio.students-laplateforme.io/). 📄**
+### DevOps & Tools
+![DevOps](https://skillicons.dev/icons?i=docker,bash,git,postgre,mysql,mongodb,nodejs)
 
-## Github Stats ⚡
+---
 
-<section style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=enzo-mattio" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-mattio" style="width: 48%;">
-</section>
+## 🚀 What I Do
 
+- **Backend Development** – APIs, business logic, micro-services architecture
+- **Full-Stack Applications** – Web apps with Symfony/Angular, mobile apps with Flutter
+- **DevOps** – Docker containers, CI/CD pipelines, production monitoring
+- **R&D** – Prototypes, proof of concepts, integration of new solutions
 
+---
 
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-mattio-51091226a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattio.enzo@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Download-4A90E2?style=for-the-badge&logo=adobe-acrobat&logoColor=white)](https://enzo-mattio.students-laplateforme.io/)
